@@ -1,10 +1,4 @@
 
----
-
-### 📌 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric-Raichand-Hills&layout=compact&theme=blue-green)
-
----
 
 ### 💬 Random Dev Quote:
 
